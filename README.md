@@ -1,19 +1,21 @@
 # Note_python
 
-# This is my note program on python.
+This is my note program on python.
 
 
-My note supported has format file:
+# My note supported has format file:
 
-# 1. TXT.
-# 2. Python file.
-# 3. DOC.
-# 4. C file.
-# 5. C++ file.
-# 6. HTML file.
-# 7. CSS file.
+1. TXT.
+2. Python file.
+3. DOC.
+4. C file.
+5. C++ file.
+6. HTML file.
+7. CSS file.
 
 # Screen shots.
+
+
 
 # 1. Note window.
 
