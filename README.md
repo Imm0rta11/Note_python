@@ -32,4 +32,18 @@ This is my note program on python.
 <img width="352" alt="Screenshot 2023-09-12 at 22 56 01" src="https://github.com/Imm0rta11/Note_python/assets/132219935/b9b9a6ae-6173-4326-91f1-a5e7cac730ba">
 
 
+# Launch program
+python main.py
+or
+python3 main.py
+if you on Mac
+
+If you do not have the PyQt module, then install it here is the command to install this module.
+pip install PyQt5
+or 
+pip3 install PyQt5
+if you on Mac.
+Enjoy :)
+
+
 
