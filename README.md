@@ -34,15 +34,15 @@ This is my note program on python.
 
 # Launch program
 Write this command.
-'''c python main.py'''
+```python main.py```
 or
-'''c python3 main.py'''
+```python3 main.py```
 if you on Mac
 
 If you do not have the PyQt module, then install it here is the command to install this module.
-'''c pip install PyQt5'''
+```pip install PyQt5```
 or 
-'''c pip3 install PyQt5'''
+```pip3 install PyQt5```
 if you on Mac.
 Enjoy :)
 
