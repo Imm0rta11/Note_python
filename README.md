@@ -33,6 +33,7 @@ This is my note program on python.
 
 
 # Launch program
+Write this command.
 # python main.py
 or
 # python3 main.py
